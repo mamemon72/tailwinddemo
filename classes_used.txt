@@ -1,0 +1,179 @@
+index.html
+
+
+Global Styles
+
+bg-gray-100 → Light gray background
+text-gray-900 → Dark gray text color
+
+Header Section
+
+bg-blue-600 → Blue background
+text-white → White text
+p-4 → Padding of 1rem (16px)
+flex → Flexbox layout
+space-x-6 → Horizontal space of 1.5rem (24px) between elements
+hover:text-gray-400 → Changes text color to gray on hover
+
+Main Section
+
+container → Centers content with responsive padding
+mx-auto → Centers the container horizontally
+py-20 → Vertical padding of 5rem (80px)
+text-center → Centers text
+text-4xl → Extra-large font size (36px)
+font-bold → Bold text
+mb-4 → Bottom margin of 1rem (16px)
+text-lg → Large text size (18px)
+text-gray-600 → Medium gray text color
+
+Footer Section
+
+bg-blue-600 → Blue background
+text-white → White text
+text-center → Centers text
+py-4 → Vertical padding of 1rem (16px)
+
+about.html
+
+Global Styles
+
+bg-gray-100 → Light gray background
+font-sans → Applies a sans-serif font
+text-gray-800 → Dark gray text color
+
+Header Section
+
+bg-blue-600 → Blue background
+p-4 → Padding of 1rem (16px)
+text-white → White text color
+flex → Flexbox layout
+space-x-6 → Horizontal spacing of 1.5rem (24px) between elements
+hover:text-gray-300 → Changes text color to light gray on hover
+
+About Section
+
+py-12 → Vertical padding of 3rem (48px)
+px-6 → Horizontal padding of 1.5rem (24px)
+max-w-3xl → Max width of 48rem (768px)
+mx-auto → Centers the section horizontally
+text-3xl → Large text size (30px)
+font-semibold → Semi-bold font weight
+text-center → Centers text
+mb-6 → Bottom margin of 1.5rem (24px)
+text-lg → Large text size (18px)
+mb-4 → Bottom margin of 1rem (16px)
+
+Footer Section
+
+bg-blue-600 → Blue background
+text-white → White text
+text-center → Centers text
+py-4 → Vertical padding of 1rem (16px)
+
+contact.html
+
+Header Section
+
+bg-blue-600 → Blue background
+text-white → White text color
+p-4 → Padding of 1rem (16px)
+flex → Flexbox layout
+space-x-6 → Horizontal spacing of 1.5rem (24px) between list items
+hover:underline → Underlines the text on hover
+
+Contact Section
+
+container → Centers content with responsive padding
+mx-auto → Centers the container horizontally
+my-12 → Vertical margin of 3rem (48px)
+p-8 → Padding of 2rem (32px)
+bg-white → White background
+shadow-lg → Large shadow effect
+rounded-lg → Large rounded corners
+max-w-lg → Maximum width of 32rem (512px)
+
+Form Elements
+
+text-2xl → Large text size (24px)
+font-bold → Bold text
+mb-6 → Bottom margin of 1.5rem (24px)
+text-center → Centers text
+space-y-4 → Vertical spacing of 1rem (16px) between form elements
+block → Makes label a block element
+font-medium → Medium font weight
+w-full → Full width
+p-2 → Padding of 0.5rem (8px)
+border → Adds a border
+border-gray-300 → Light gray border color
+rounded → Small rounded corners
+h-32 → Sets height to 8rem (128px) for textarea
+bg-blue-600 → Blue background for the button
+hover:bg-blue-700 → Darker blue background on hover
+
+Footer Section
+
+bg-blue-600 → Blue background
+text-white → White text
+text-center → Centers text
+p-4 → Padding of 1rem (16px)
+mt-12 → Top margin of 3rem (48px)
+
+portfolio.html
+
+Global Styles
+
+font-sans → Uses a sans-serif font
+bg-gray-100 → Light gray background
+text-gray-900 → Dark gray text color
+
+Header Section
+
+bg-blue-600 → Blue background
+p-4 → Padding of 1rem (16px)
+flex → Uses flexbox for layout
+space-x-6 → Horizontal spacing of 1.5rem (24px) between elements
+text-white → White text color
+hover:text-blue-300 → Changes text color to light blue on hover
+
+Portfolio Section
+
+py-16 → Vertical padding of 4rem (64px)
+px-4 → Horizontal padding of 1rem (16px)
+text-4xl → Extra-large text size (36px)
+font-semibold → Semi-bold text
+text-center → Centers text
+text-blue-800 → Dark blue text color
+mb-4 → Bottom margin of 1rem (16px)
+text-xl → Large text size (20px)
+text-gray-700 → Medium gray text color
+mb-8 → Bottom margin of 2rem (32px)
+
+Portfolio Items Grid
+
+grid → Uses CSS grid for layout
+grid-cols-1 → Single column layout by default
+sm:grid-cols-2 → Two columns on small screens (≥640px)
+md:grid-cols-3 → Three columns on medium screens (≥768px)
+gap-8 → Grid gap of 2rem (32px)
+Portfolio Item Card
+bg-white → White background
+rounded-lg → Large rounded corners
+shadow-lg → Large shadow effect
+overflow-hidden → Hides overflowing content
+w-full → Full width
+h-64 → Fixed height of 16rem (256px) for images
+object-cover → Ensures images maintain aspect ratio and cover the entire container
+p-4 → Padding of 1rem (16px)
+text-xl → Large text size (20px)
+font-semibold → Semi-bold text
+text-blue-600 → Medium blue text color
+mb-2 → Bottom margin of 0.5rem (8px)
+text-gray-600 → Light gray text color
+
+Footer Section
+
+bg-blue-600 → Blue background
+text-white → White text
+text-center → Centers text
+py-4 → Vertical padding of 1rem (16px)

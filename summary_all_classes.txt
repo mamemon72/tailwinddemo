@@ -1,0 +1,84 @@
+Global Styles
+bg-gray-100 → Light gray background
+text-gray-900 → Dark gray text color
+font-sans → Uses a sans-serif font
+
+Header Section (Common Across Pages)
+
+bg-blue-600 → Blue background
+text-white → White text color
+p-4 → Padding of 1rem (16px)
+flex → Uses flexbox for layout
+space-x-6 → Horizontal spacing of 1.5rem (24px) between list items
+hover:text-gray-400 / hover:text-gray-300 / hover:text-blue-300 → Changes text color on hover
+hover:underline → Underlines the text on hover
+
+Main Content Sections
+
+Index (Home) Page
+
+container → Centers content with responsive padding
+mx-auto → Centers the container horizontally
+py-20 → Vertical padding of 5rem (80px)
+text-center → Centers text
+text-4xl → Extra-large font size (36px)
+font-bold → Bold text
+mb-4 → Bottom margin of 1rem (16px)
+text-lg → Large text size (18px)
+text-gray-600 → Medium gray text color
+
+About Page
+
+py-12 → Vertical padding of 3rem (48px)
+px-6 → Horizontal padding of 1.5rem (24px)
+max-w-3xl → Max width of 48rem (768px)
+text-3xl → Large text size (30px)
+font-semibold → Semi-bold font weight
+mb-6 → Bottom margin of 1.5rem (24px)
+
+Contact Page
+
+my-12 → Vertical margin of 3rem (48px)
+p-8 → Padding of 2rem (32px)
+bg-white → White background
+shadow-lg → Large shadow effect
+rounded-lg → Large rounded corners
+max-w-lg → Maximum width of 32rem (512px)`
+
+Form Elements
+
+text-2xl → Large text size (24px)
+space-y-4 → Vertical spacing of 1rem (16px) between form elements
+block → Makes label a block element
+font-medium → Medium font weight
+w-full → Full width
+p-2 → Padding of 0.5rem (8px)
+border → Adds a border
+border-gray-300 → Light gray border color
+rounded → Small rounded corners
+h-32 → Sets height to 8rem (128px) for textarea
+hover:bg-blue-700 → Darker blue background on hover
+
+Portfolio Page
+
+py-16 → Vertical padding of 4rem (64px)
+px-4 → Horizontal padding of 1rem (16px)
+text-blue-800 → Dark blue text color
+text-xl → Large text size (20px)
+mb-8 → Bottom margin of 2rem (32px)
+
+Portfolio Grid & Items
+
+grid → Uses CSS grid for layout
+grid-cols-1 sm:grid-cols-2 md:grid-cols-3 → Responsive grid layout
+gap-8 → Grid gap of 2rem (32px)
+h-64 → Fixed height of 16rem (256px) for images
+object-cover → Ensures images maintain aspect ratio and cover the entire container
+
+Footer Section (Common Across Pages)
+
+bg-blue-600 → Blue background
+text-white → White text
+text-center → Centers text
+py-4 → Vertical padding of 1rem (16px)
+mt-12 → Top margin of 3rem (48px)`
