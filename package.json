@@ -1,15 +1,33 @@
 {
   "scripts": {
-    "start": "vite",
-     "build": "chmod +x node_modules/.bin/vite && vite build"
+    "build": "vite build",
+    "dev": "vite",
+    "start": "vite preview"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.5.3",
     "tailwindcss": "^4.0.9",
-    "vite": "^6.2.0"
+    "vite": "^5.2.8"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.9"
-  }
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "name": "tailwinddemo",
+  "version": "1.0.0",
+  "description": "<!DOCTYPE html>\r <html lang=\"en\">\r   <head>\r     <meta charset=\"utf-8\">\r     <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\r     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> \r     <script src=\"https://cdn.tailwindcss.com\"></script>\r     <title>Document</title>\r   </head>\r   <body class=\"bg-gray-100 text-gray-900\">",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamemon72/tailwinddemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamemon72/tailwinddemo/issues"
+  },
+  "homepage": "https://github.com/mamemon72/tailwinddemo#readme"
 }
