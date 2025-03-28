@@ -14,9 +14,9 @@
         <nav>
             <ul class="flex space-x-6">
                 <li><a href="index.html" class="hover:text-gray-400">Home</a></li>
-                <li><a href="about.html" class="hover:text-gray-400">About</a></li>
-                <li><a href="portfolio.html" class="hover:text-gray-400">Portfolio</a></li>
-                <li><a href="contact.html" class="hover:text-gray-400">Contact</a></li>
+                <li><a href="dist/about.html" class="hover:text-gray-400">About</a></li>
+                <li><a href="dist/portfolio.html" class="hover:text-gray-400">Portfolio</a></li>
+                <li><a href="dist/contact.html" class="hover:text-gray-400">Contact</a></li>
             </ul>
         </nav>
     </header>
